@@ -1,3 +1,8 @@
+# Practice website with MongoDB, .NET and Vuejs
+
+![alt text](layout_preview.jpg)
+
+
 # frontend
 
 ## Project setup
@@ -21,5 +26,3 @@ dotnet build
 ```
 dotnet run
 ```
-
-![alt text](../layout_preview.jpg)
